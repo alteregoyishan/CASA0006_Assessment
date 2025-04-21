@@ -1,0 +1,513 @@
+BoroughName,BoroughName_std,Year,CrimeCount,Code,Area_name,Population,Area_name_std,TotalCrimeRate
+Barking And Dagenham,barking and dagenham,2010,15833,E09000002,Barking and Dagenham,182838,barking and dagenham,8659.578424616326
+Barking And Dagenham,barking and dagenham,2011,20555,E09000002,Barking and Dagenham,187418,barking and dagenham,10967.463103864091
+Barking And Dagenham,barking and dagenham,2012,19330,E09000002,Barking and Dagenham,190949,barking and dagenham,10123.121880711604
+Barking And Dagenham,barking and dagenham,2013,18302,E09000002,Barking and Dagenham,194741,barking and dagenham,9398.12366168398
+Barking And Dagenham,barking and dagenham,2014,17684,E09000002,Barking and Dagenham,198683,barking and dagenham,8900.610520276017
+Barking And Dagenham,barking and dagenham,2015,18399,E09000002,Barking and Dagenham,202368,barking and dagenham,9091.852466793169
+Barking And Dagenham,barking and dagenham,2016,18535,E09000002,Barking and Dagenham,206849,barking and dagenham,8960.642787734048
+Barking And Dagenham,barking and dagenham,2017,19910,E09000002,Barking and Dagenham,210513,barking and dagenham,9457.848208899213
+Barking And Dagenham,barking and dagenham,2018,19644,E09000002,Barking and Dagenham,212773,barking and dagenham,9232.374408407082
+Barking And Dagenham,barking and dagenham,2019,20952,E09000002,Barking and Dagenham,214858,barking and dagenham,9751.556842193448
+Barking And Dagenham,barking and dagenham,2020,19346,E09000002,Barking and Dagenham,218367,barking and dagenham,8859.397253247973
+Barking And Dagenham,barking and dagenham,2021,19819,E09000002,Barking and Dagenham,221495,barking and dagenham,8947.831779498409
+Barking And Dagenham,barking and dagenham,2022,20858,E09000002,Barking and Dagenham,224407,barking and dagenham,9294.718970442098
+Barking And Dagenham,barking and dagenham,2023,21299,E09000002,Barking and Dagenham,226988,barking and dagenham,9383.315417555114
+Barking And Dagenham,barking and dagenham,2024,20168,E09000002,Barking and Dagenham,229337,barking and dagenham,8794.045444040865
+Barking And Dagenham,barking and dagenham,2025,4632,E09000002,Barking and Dagenham,234317,barking and dagenham,1976.8091943819697
+Barnet,barnet,2010,22015,E09000003,Barnet,351438,barnet,6264.262828720855
+Barnet,barnet,2011,30671,E09000003,Barnet,357653,barnet,8575.630569294819
+Barnet,barnet,2012,30017,E09000003,Barnet,364071,barnet,8244.820378442666
+Barnet,barnet,2013,27214,E09000003,Barnet,369203,barnet,7371.012694913097
+Barnet,barnet,2014,26494,E09000003,Barnet,375030,barnet,7064.501506546143
+Barnet,barnet,2015,28295,E09000003,Barnet,379806,barnet,7449.855979105122
+Barnet,barnet,2016,28608,E09000003,Barnet,386198,barnet,7407.599210767534
+Barnet,barnet,2017,29770,E09000003,Barnet,391446,barnet,7605.135829718531
+Barnet,barnet,2018,31283,E09000003,Barnet,397049,barnet,7878.876410720087
+Barnet,barnet,2019,34619,E09000003,Barnet,402363,barnet,8603.922328842364
+Barnet,barnet,2020,29507,E09000003,Barnet,407148,barnet,7247.241789226522
+Barnet,barnet,2021,29152,E09000003,Barnet,411275,barnet,7088.201325147407
+Barnet,barnet,2022,29949,E09000003,Barnet,415041,barnet,7215.91360853506
+Barnet,barnet,2023,28852,E09000003,Barnet,418291,barnet,6897.590433454222
+Barnet,barnet,2024,28240,E09000003,Barnet,420924,barnet,6709.049614657278
+Barnet,barnet,2025,6798,E09000003,Barnet,422894,barnet,1607.4950223933185
+Bexley,bexley,2010,11207,E09000004,Bexley,230711,bexley,4857.592399148718
+Bexley,bexley,2011,13016,E09000004,Bexley,233002,bexley,5586.218144050266
+Bexley,bexley,2012,13245,E09000004,Bexley,234499,bexley,5648.211719452961
+Bexley,bexley,2013,12908,E09000004,Bexley,236915,bexley,5448.367557984931
+Bexley,bexley,2014,12934,E09000004,Bexley,240093,bexley,5387.07917348694
+Bexley,bexley,2015,12931,E09000004,Bexley,242370,bexley,5335.231257993976
+Bexley,bexley,2016,13896,E09000004,Bexley,244988,bexley,5672.114552549513
+Bexley,bexley,2017,15587,E09000004,Bexley,247179,bexley,6305.956412154755
+Bexley,bexley,2018,16456,E09000004,Bexley,249999,bexley,6582.4263297053185
+Bexley,bexley,2019,19168,E09000004,Bexley,252885,bexley,7579.729916760583
+Bexley,bexley,2020,16065,E09000004,Bexley,254970,bexley,6300.741263678079
+Bexley,bexley,2021,15285,E09000004,Bexley,256845,bexley,5951.059977807628
+Bexley,bexley,2022,16227,E09000004,Bexley,258607,bexley,6274.772144605521
+Bexley,bexley,2023,16694,E09000004,Bexley,260232,bexley,6415.045036736451
+Bexley,bexley,2024,16646,E09000004,Bexley,262798,bexley,6334.1425733833585
+Bexley,bexley,2025,3940,E09000004,Bexley,265249,bexley,1485.3967404212644
+Brent,brent,2010,23844,E09000005,Brent,304785,brent,7823.219646636154
+Brent,brent,2011,33345,E09000005,Brent,313084,brent,10650.496352416603
+Brent,brent,2012,31582,E09000005,Brent,315499,brent,10010.174358714292
+Brent,brent,2013,27035,E09000005,Brent,318103,brent,8498.819564732179
+Brent,brent,2014,27407,E09000005,Brent,321601,brent,8522.050615514256
+Brent,brent,2015,28085,E09000005,Brent,324851,brent,8645.502091728207
+Brent,brent,2016,29896,E09000005,Brent,329093,brent,9084.362171179577
+Brent,brent,2017,32142,E09000005,Brent,332750,brent,9659.504132231405
+Brent,brent,2018,33189,E09000005,Brent,336859,brent,9852.490211037852
+Brent,brent,2019,32550,E09000005,Brent,340710,brent,9553.579290305539
+Brent,brent,2020,30088,E09000005,Brent,343853,brent,8750.250833931941
+Brent,brent,2021,29075,E09000005,Brent,346437,brent,8392.57931456513
+Brent,brent,2022,31175,E09000005,Brent,348783,brent,8938.222333083895
+Brent,brent,2023,31990,E09000005,Brent,350714,brent,9121.392359586443
+Brent,brent,2024,32441,E09000005,Brent,353130,brent,9186.701781213716
+Brent,brent,2025,7599,E09000005,Brent,358170,brent,2121.6182259820757
+Bromley,bromley,2010,18256,E09000006,Bromley,308560,bromley,5916.515426497278
+Bromley,bromley,2011,24708,E09000006,Bromley,311110,bromley,7941.885506733952
+Bromley,bromley,2012,23661,E09000006,Bromley,314592,bromley,7521.170277693012
+Bromley,bromley,2013,22249,E09000006,Bromley,318455,bromley,6986.54440972822
+Bromley,bromley,2014,22601,E09000006,Bromley,321834,bromley,7022.564427624178
+Bromley,bromley,2015,23530,E09000006,Bromley,325413,bromley,7230.81130747696
+Bromley,bromley,2016,22825,E09000006,Bromley,327445,bromley,6970.636290063981
+Bromley,bromley,2017,25177,E09000006,Bromley,330909,bromley,7608.43615616378
+Bromley,bromley,2018,25582,E09000006,Bromley,332733,bromley,7688.44689285403
+Bromley,bromley,2019,27681,E09000006,Bromley,334292,bromley,8280.485324207579
+Bromley,bromley,2020,23279,E09000006,Bromley,336395,bromley,6920.138527623776
+Bromley,bromley,2021,23767,E09000006,Bromley,339466,bromley,7001.290261764065
+Bromley,bromley,2022,24035,E09000006,Bromley,342548,bromley,7016.53490897626
+Bromley,bromley,2023,23895,E09000006,Bromley,345216,bromley,6921.7533370411575
+Bromley,bromley,2024,24156,E09000006,Bromley,347455,bromley,6952.267200069074
+Bromley,bromley,2025,5762,E09000006,Bromley,349207,bromley,1650.0241976821771
+Camden,camden,2010,26905,E09000007,Camden,214725,camden,12529.98020724182
+Camden,camden,2011,38349,E09000007,Camden,220087,camden,17424.47304929414
+Camden,camden,2012,35853,E09000007,Camden,224961,camden,15937.429154386758
+Camden,camden,2013,31790,E09000007,Camden,229718,camden,13838.706588077557
+Camden,camden,2014,30526,E09000007,Camden,234845,camden,12998.36062083502
+Camden,camden,2015,32835,E09000007,Camden,241058,camden,13621.203195911357
+Camden,camden,2016,32414,E09000007,Camden,246180,camden,13166.788528718824
+Camden,camden,2017,40518,E09000007,Camden,249556,camden,16236.035198512558
+Camden,camden,2018,39077,E09000007,Camden,252637,camden,15467.64725673595
+Camden,camden,2019,42734,E09000007,Camden,255526,camden,16723.93415934191
+Camden,camden,2020,31325,E09000007,Camden,257384,camden,12170.531190750007
+Camden,camden,2021,29411,E09000007,Camden,259344,camden,11340.536121907582
+Camden,camden,2022,36329,E09000007,Camden,261082,camden,13914.78539309489
+Camden,camden,2023,40317,E09000007,Camden,262494,camden,15359.208210473382
+Camden,camden,2024,42909,E09000007,Camden,263550,camden,16281.161070005692
+Camden,camden,2025,10120,E09000007,Camden,264300,camden,3828.98221717745
+Croydon,croydon,2010,26760,E09000008,Croydon,357951,croydon,7475.8835706563195
+Croydon,croydon,2011,36268,E09000008,Croydon,364815,croydon,9941.477187067418
+Croydon,croydon,2012,35654,E09000008,Croydon,368886,croydon,9665.316656094294
+Croydon,croydon,2013,31844,E09000008,Croydon,372752,croydon,8542.94544361935
+Croydon,croydon,2014,30999,E09000008,Croydon,376040,croydon,8243.537921497713
+Croydon,croydon,2015,31455,E09000008,Croydon,379031,croydon,8298.793502378434
+Croydon,croydon,2016,32247,E09000008,Croydon,382304,croydon,8434.910437766803
+Croydon,croydon,2017,32527,E09000008,Croydon,386346,croydon,8419.137250029766
+Croydon,croydon,2018,33200,E09000008,Croydon,391296,croydon,8484.625449787374
+Croydon,croydon,2019,35837,E09000008,Croydon,396548,croydon,9037.24139322352
+Croydon,croydon,2020,34293,E09000008,Croydon,400272,croydon,8567.424151576928
+Croydon,croydon,2021,34150,E09000008,Croydon,403461,croydon,8464.262964697951
+Croydon,croydon,2022,35339,E09000008,Croydon,406399,croydon,8695.641475495757
+Croydon,croydon,2023,33889,E09000008,Croydon,411580,croydon,8233.879197239905
+Croydon,croydon,2024,35415,E09000008,Croydon,416582,croydon,8501.327469741851
+Croydon,croydon,2025,8296,E09000008,Croydon,421090,croydon,1970.125151392814
+Ealing,ealing,2010,28058,E09000009,Ealing,334073,ealing,8398.763144582172
+Ealing,ealing,2011,35555,E09000009,Ealing,339665,ealing,10467.666671573463
+Ealing,ealing,2012,34022,E09000009,Ealing,341022,ealing,9976.482455677346
+Ealing,ealing,2013,29864,E09000009,Ealing,342845,ealing,8710.641835231663
+Ealing,ealing,2014,28233,E09000009,Ealing,342469,ealing,8243.957847279607
+Ealing,ealing,2015,29406,E09000009,Ealing,343410,ealing,8562.942255612823
+Ealing,ealing,2016,30238,E09000009,Ealing,343547,ealing,8801.706898910485
+Ealing,ealing,2017,30676,E09000009,Ealing,347126,ealing,8837.136947390862
+Ealing,ealing,2018,30419,E09000009,Ealing,350784,ealing,8671.71820835614
+Ealing,ealing,2019,33924,E09000009,Ealing,354184,ealing,9578.072414338309
+Ealing,ealing,2020,30500,E09000009,Ealing,361833,ealing,8429.303021006928
+Ealing,ealing,2021,29850,E09000009,Ealing,369685,ealing,8074.441754466641
+Ealing,ealing,2022,30502,E09000009,Ealing,377916,ealing,8071.105748367362
+Ealing,ealing,2023,31956,E09000009,Ealing,385818,ealing,8282.66177316766
+Ealing,ealing,2024,31380,E09000009,Ealing,393434,ealing,7975.924805685325
+Ealing,ealing,2025,7745,E09000009,Ealing,397010,ealing,1950.8324727336844
+Enfield,enfield,2010,19233,E09000010,Enfield,307648,enfield,6251.6252340337005
+Enfield,enfield,2011,26517,E09000010,Enfield,314011,enfield,8444.608628360153
+Enfield,enfield,2012,25891,E09000010,Enfield,317363,enfield,8158.165885752278
+Enfield,enfield,2013,25314,E09000010,Enfield,320600,enfield,7895.820336868372
+Enfield,enfield,2014,25117,E09000010,Enfield,324650,enfield,7736.639457877714
+Enfield,enfield,2015,25339,E09000010,Enfield,328509,enfield,7713.33509888618
+Enfield,enfield,2016,25591,E09000010,Enfield,331471,enfield,7720.434065121835
+Enfield,enfield,2017,27372,E09000010,Enfield,335647,enfield,8154.996171573111
+Enfield,enfield,2018,30536,E09000010,Enfield,337697,enfield,9042.42560638679
+Enfield,enfield,2019,33146,E09000010,Enfield,339480,enfield,9763.756333215506
+Enfield,enfield,2020,30559,E09000010,Enfield,342993,enfield,8909.511272824811
+Enfield,enfield,2021,30678,E09000010,Enfield,346635,enfield,8850.231511532304
+Enfield,enfield,2022,31739,E09000010,Enfield,349994,enfield,9068.441173277255
+Enfield,enfield,2023,30048,E09000010,Enfield,352879,enfield,8515.100076796862
+Enfield,enfield,2024,29477,E09000010,Enfield,355209,enfield,8298.494689042225
+Enfield,enfield,2025,7136,E09000010,Enfield,356949,enfield,1999.1651468417058
+Greenwich,greenwich,2010,19875,E09000011,Greenwich,249171,greenwich,7976.449907894578
+Greenwich,greenwich,2011,24615,E09000011,Greenwich,255483,greenwich,9634.691936449784
+Greenwich,greenwich,2012,23214,E09000011,Greenwich,260068,greenwich,8926.127012935078
+Greenwich,greenwich,2013,21691,E09000011,Greenwich,264008,greenwich,8216.038907911881
+Greenwich,greenwich,2014,22392,E09000011,Greenwich,268678,greenwich,8334.139750928622
+Greenwich,greenwich,2015,23304,E09000011,Greenwich,274803,greenwich,8480.256765755832
+Greenwich,greenwich,2016,25084,E09000011,Greenwich,279766,greenwich,8966.064496758005
+Greenwich,greenwich,2017,27393,E09000011,Greenwich,282774,greenwich,9687.24140126037
+Greenwich,greenwich,2018,27649,E09000011,Greenwich,286322,greenwich,9656.610389701107
+Greenwich,greenwich,2019,30532,E09000011,Greenwich,289650,greenwich,10540.997755912309
+Greenwich,greenwich,2020,26323,E09000011,Greenwich,292466,greenwich,9000.362435291625
+Greenwich,greenwich,2021,26780,E09000011,Greenwich,294837,greenwich,9082.984835688872
+Greenwich,greenwich,2022,27967,E09000011,Greenwich,297039,greenwich,9415.26196896704
+Greenwich,greenwich,2023,28350,E09000011,Greenwich,300514,greenwich,9433.836693132433
+Greenwich,greenwich,2024,27734,E09000011,Greenwich,306500,greenwich,9048.613376835236
+Greenwich,greenwich,2025,6549,E09000011,Greenwich,312027,greenwich,2098.8568296974304
+Hackney,hackney,2010,22597,E09000012,Hackney,241739,hackney,9347.684899829981
+Hackney,hackney,2011,29100,E09000012,Hackney,247578,hackney,11753.87150716138
+Hackney,hackney,2012,30510,E09000012,Hackney,252515,hackney,12082.450547492228
+Hackney,hackney,2013,28758,E09000012,Hackney,257775,hackney,11156.240907768402
+Hackney,hackney,2014,27968,E09000012,Hackney,263546,hackney,10612.189143451238
+Hackney,hackney,2015,30028,E09000012,Hackney,269405,hackney,11146.044060058277
+Hackney,hackney,2016,31655,E09000012,Hackney,273922,hackney,11556.20943188207
+Hackney,hackney,2017,34565,E09000012,Hackney,277475,hackney,12456.978106135688
+Hackney,hackney,2018,34227,E09000012,Hackney,281740,hackney,12148.43472705331
+Hackney,hackney,2019,37212,E09000012,Hackney,286425,hackney,12991.882691804138
+Hackney,hackney,2020,32746,E09000012,Hackney,289488,hackney,11311.695130713535
+Hackney,hackney,2021,32842,E09000012,Hackney,292023,hackney,11246.374429411382
+Hackney,hackney,2022,33060,E09000012,Hackney,294312,hackney,11232.977248634103
+Hackney,hackney,2023,32333,E09000012,Hackney,296177,hackney,10916.782869702914
+Hackney,hackney,2024,33833,E09000012,Hackney,297569,hackney,11369.799945558845
+Hackney,hackney,2025,7490,E09000012,Hackney,298472,hackney,2509.4481224369456
+Hammersmith And Fulham,hammersmith and fulham,2010,18699,E09000013,Hammersmith and Fulham,180842,hammersmith and fulham,10339.96527355371
+Hammersmith And Fulham,hammersmith and fulham,2011,24428,E09000013,Hammersmith and Fulham,182790,hammersmith and fulham,13363.969582581103
+Hammersmith And Fulham,hammersmith and fulham,2012,22966,E09000013,Hammersmith and Fulham,180195,hammersmith and fulham,12745.081717028776
+Hammersmith And Fulham,hammersmith and fulham,2013,19662,E09000013,Hammersmith and Fulham,179030,hammersmith and fulham,10982.516896609506
+Hammersmith And Fulham,hammersmith and fulham,2014,20210,E09000013,Hammersmith and Fulham,178710,hammersmith and fulham,11308.824352302612
+Hammersmith And Fulham,hammersmith and fulham,2015,21150,E09000013,Hammersmith and Fulham,179754,hammersmith and fulham,11766.080309756668
+Hammersmith And Fulham,hammersmith and fulham,2016,21468,E09000013,Hammersmith and Fulham,179998,hammersmith and fulham,11926.79918665763
+Hammersmith And Fulham,hammersmith and fulham,2017,22666,E09000013,Hammersmith and Fulham,181889,hammersmith and fulham,12461.446266679128
+Hammersmith And Fulham,hammersmith and fulham,2018,22682,E09000013,Hammersmith and Fulham,184050,hammersmith and fulham,12323.825047541428
+Hammersmith And Fulham,hammersmith and fulham,2019,24095,E09000013,Hammersmith and Fulham,186075,hammersmith and fulham,12949.079672175198
+Hammersmith And Fulham,hammersmith and fulham,2020,19487,E09000013,Hammersmith and Fulham,190721,hammersmith and fulham,10217.54290298394
+Hammersmith And Fulham,hammersmith and fulham,2021,20356,E09000013,Hammersmith and Fulham,195981,hammersmith and fulham,10386.721161745272
+Hammersmith And Fulham,hammersmith and fulham,2022,20562,E09000013,Hammersmith and Fulham,201406,hammersmith and fulham,10209.229119291382
+Hammersmith And Fulham,hammersmith and fulham,2023,21962,E09000013,Hammersmith and Fulham,206689,hammersmith and fulham,10625.625940422568
+Hammersmith And Fulham,hammersmith and fulham,2024,21493,E09000013,Hammersmith and Fulham,211895,hammersmith and fulham,10143.231317397767
+Hammersmith And Fulham,hammersmith and fulham,2025,5037,E09000013,Hammersmith and Fulham,215227,hammersmith and fulham,2340.3197554210205
+Haringey,haringey,2010,20551,E09000014,Haringey,252742,haringey,8131.2168139842215
+Haringey,haringey,2011,28214,E09000014,Haringey,256438,haringey,11002.26955443421
+Haringey,haringey,2012,27686,E09000014,Haringey,259810,haringey,10656.248797197952
+Haringey,haringey,2013,23848,E09000014,Haringey,264284,haringey,9023.626099196319
+Haringey,haringey,2014,26030,E09000014,Haringey,268439,haringey,9696.802625549939
+Haringey,haringey,2015,27740,E09000014,Haringey,273762,haringey,10132.889151891059
+Haringey,haringey,2016,30277,E09000014,Haringey,279349,haringey,10838.413597328074
+Haringey,haringey,2017,32220,E09000014,Haringey,282397,haringey,11409.469647340446
+Haringey,haringey,2018,33793,E09000014,Haringey,284288,haringey,11886.889351643404
+Haringey,haringey,2019,34502,E09000014,Haringey,285949,haringey,12065.787955194808
+Haringey,haringey,2020,29843,E09000014,Haringey,288913,haringey,10329.407122559387
+Haringey,haringey,2021,30500,E09000014,Haringey,291330,haringey,10469.227336697217
+Haringey,haringey,2022,29866,E09000014,Haringey,293503,haringey,10175.705188703352
+Haringey,haringey,2023,30306,E09000014,Haringey,295263,haringey,10264.0696599303
+Haringey,haringey,2024,28274,E09000014,Haringey,296572,haringey,9533.603981495218
+Haringey,haringey,2025,6677,E09000014,Haringey,297410,haringey,2245.0489223630675
+Harrow,harrow,2010,12917,E09000015,Harrow,237451,harrow,5439.859170944742
+Harrow,harrow,2011,16244,E09000015,Harrow,241063,harrow,6738.48744933897
+Harrow,harrow,2012,16020,E09000015,Harrow,242941,harrow,6594.193651956648
+Harrow,harrow,2013,14249,E09000015,Harrow,243937,harrow,5841.2622931330625
+Harrow,harrow,2014,13951,E09000015,Harrow,246575,harrow,5657.913413768631
+Harrow,harrow,2015,14521,E09000015,Harrow,247694,harrow,5862.475473770055
+Harrow,harrow,2016,15436,E09000015,Harrow,249316,harrow,6191.339504885366
+Harrow,harrow,2017,15820,E09000015,Harrow,252052,harrow,6276.482630568296
+Harrow,harrow,2018,16582,E09000015,Harrow,255369,harrow,6493.348840305597
+Harrow,harrow,2019,18926,E09000015,Harrow,258861,harrow,7311.259710810049
+Harrow,harrow,2020,16485,E09000015,Harrow,261348,harrow,6307.681711740667
+Harrow,harrow,2021,15771,E09000015,Harrow,263484,harrow,5985.5626907136675
+Harrow,harrow,2022,16123,E09000015,Harrow,265449,harrow,6073.859762138867
+Harrow,harrow,2023,15742,E09000015,Harrow,267120,harrow,5893.231506439053
+Harrow,harrow,2024,16534,E09000015,Harrow,268448,harrow,6159.107164143522
+Harrow,harrow,2025,3794,E09000015,Harrow,269422,harrow,1408.1997758163773
+Havering,havering,2010,14103,E09000016,Havering,236234,havering,5969.928122116206
+Havering,havering,2011,19802,E09000016,Havering,238281,havering,8310.356260045912
+Havering,havering,2012,19245,E09000016,Havering,240087,havering,8015.844256457034
+Havering,havering,2013,17706,E09000016,Havering,242434,havering,7303.431036900765
+Havering,havering,2014,17243,E09000016,Havering,246328,havering,7000.016238511253
+Havering,havering,2015,18153,E09000016,Havering,249439,havering,7277.530779068229
+Havering,havering,2016,19078,E09000016,Havering,253137,havering,7536.630362214927
+Havering,havering,2017,20791,E09000016,Havering,256162,havering,8116.348248374075
+Havering,havering,2018,20350,E09000016,Havering,257511,havering,7902.575035629546
+Havering,havering,2019,20734,E09000016,Havering,258655,havering,8016.08319962885
+Havering,havering,2020,17655,E09000016,Havering,261830,havering,6742.9247985334
+Havering,havering,2021,17859,E09000016,Havering,265930,havering,6715.677057872373
+Havering,havering,2022,20276,E09000016,Havering,271368,havering,7471.7726482120215
+Havering,havering,2023,21314,E09000016,Havering,276649,havering,7704.347386037904
+Havering,havering,2024,20345,E09000016,Havering,281728,havering,7221.504429804634
+Havering,havering,2025,4456,E09000016,Havering,284971,havering,1563.6678819950098
+Hillingdon,hillingdon,2010,20342,E09000017,Hillingdon,269465,hillingdon,7549.03234186258
+Hillingdon,hillingdon,2011,28330,E09000017,Hillingdon,276134,hillingdon,10259.511686355176
+Hillingdon,hillingdon,2012,25433,E09000017,Hillingdon,282391,hillingdon,9006.306858221402
+Hillingdon,hillingdon,2013,22492,E09000017,Hillingdon,287443,hillingdon,7824.855710523478
+Hillingdon,hillingdon,2014,25468,E09000017,Hillingdon,293325,hillingdon,8682.51938975539
+Hillingdon,hillingdon,2015,25556,E09000017,Hillingdon,298370,hillingdon,8565.20427656936
+Hillingdon,hillingdon,2016,26498,E09000017,Hillingdon,303106,hillingdon,8742.156209378898
+Hillingdon,hillingdon,2017,28980,E09000017,Hillingdon,307040,hillingdon,9438.50964043773
+Hillingdon,hillingdon,2018,28935,E09000017,Hillingdon,309926,hillingdon,9336.09958506224
+Hillingdon,hillingdon,2019,32261,E09000017,Hillingdon,312567,hillingdon,10321.30711175524
+Hillingdon,hillingdon,2020,27248,E09000017,Hillingdon,316253,hillingdon,8615.886647715595
+Hillingdon,hillingdon,2021,25445,E09000017,Hillingdon,319467,hillingdon,7964.8289181668215
+Hillingdon,hillingdon,2022,27664,E09000017,Hillingdon,322492,hillingdon,8578.19728861491
+Hillingdon,hillingdon,2023,24429,E09000017,Hillingdon,325182,hillingdon,7512.408435891285
+Hillingdon,hillingdon,2024,28889,E09000017,Hillingdon,327456,hillingdon,8822.253982214404
+Hillingdon,hillingdon,2025,7175,E09000017,Hillingdon,329302,hillingdon,2178.851024287736
+Hounslow,hounslow,2010,19277,E09000018,Hounslow,249236,hounslow,7734.436437753775
+Hounslow,hounslow,2011,26418,E09000018,Hounslow,255334,hounslow,10346.448181597438
+Hounslow,hounslow,2012,26563,E09000018,Hounslow,259459,hounslow,10237.841046176853
+Hounslow,hounslow,2013,22445,E09000018,Hounslow,262814,hounslow,8540.260412306801
+Hounslow,hounslow,2014,22205,E09000018,Hounslow,265975,hounslow,8348.528997086192
+Hounslow,hounslow,2015,23530,E09000018,Hounslow,269177,hounslow,8741.460080170296
+Hounslow,hounslow,2016,24619,E09000018,Hounslow,271546,hounslow,9066.235554933603
+Hounslow,hounslow,2017,27024,E09000018,Hounslow,274970,hounslow,9827.981234316472
+Hounslow,hounslow,2018,27681,E09000018,Hounslow,278264,hounslow,9947.747462841044
+Hounslow,hounslow,2019,28957,E09000018,Hounslow,281339,hounslow,10292.565197146503
+Hounslow,hounslow,2020,25525,E09000018,Hounslow,284358,hounslow,8976.360784644708
+Hounslow,hounslow,2021,24570,E09000018,Hounslow,286947,hounslow,8562.556848477245
+Hounslow,hounslow,2022,25776,E09000018,Hounslow,289358,hounslow,8907.99632289413
+Hounslow,hounslow,2023,27585,E09000018,Hounslow,291460,hounslow,9464.420503671172
+Hounslow,hounslow,2024,26612,E09000018,Hounslow,293167,hounslow,9077.420037043734
+Hounslow,hounslow,2025,6039,E09000018,Hounslow,294459,hounslow,2050.879748963353
+Islington,islington,2010,22279,E09000019,Islington,200129,islington,11132.319653823284
+Islington,islington,2011,29370,E09000019,Islington,206639,islington,14213.19305648982
+Islington,islington,2012,29524,E09000019,Islington,211400,islington,13965.941343424787
+Islington,islington,2013,26390,E09000019,Islington,216024,islington,12216.235233122245
+Islington,islington,2014,27290,E09000019,Islington,221383,islington,12327.053116092924
+Islington,islington,2015,29795,E09000019,Islington,228045,islington,13065.403758030214
+Islington,islington,2016,29597,E09000019,Islington,233218,islington,12690.701403836754
+Islington,islington,2017,34359,E09000019,Islington,235370,islington,14597.867187831926
+Islington,islington,2018,31044,E09000019,Islington,238267,islington,13029.080821095662
+Islington,islington,2019,32504,E09000019,Islington,241589,islington,13454.254953660968
+Islington,islington,2020,26846,E09000019,Islington,242827,islington,11055.607490106124
+Islington,islington,2021,26109,E09000019,Islington,244372,islington,10684.120930384823
+Islington,islington,2022,28788,E09000019,Islington,245839,islington,11710.102953559037
+Islington,islington,2023,29033,E09000019,Islington,247009,islington,11753.822735203981
+Islington,islington,2024,30507,E09000019,Islington,247841,islington,12309.101399687703
+Islington,islington,2025,7551,E09000019,Islington,248352,islington,3040.4425976034017
+Kensington And Chelsea,kensington and chelsea,2010,16758,E09000020,Kensington and Chelsea,160463,kensington and chelsea,10443.52903784673
+Kensington And Chelsea,kensington and chelsea,2011,21551,E09000020,Kensington and Chelsea,158652,kensington and chelsea,13583.818672314246
+Kensington And Chelsea,kensington and chelsea,2012,22465,E09000020,Kensington and Chelsea,156331,kensington and chelsea,14370.150513973556
+Kensington And Chelsea,kensington and chelsea,2013,19661,E09000020,Kensington and Chelsea,155995,kensington and chelsea,12603.609090034937
+Kensington And Chelsea,kensington and chelsea,2014,19572,E09000020,Kensington and Chelsea,156591,kensington and chelsea,12498.802613177002
+Kensington And Chelsea,kensington and chelsea,2015,20893,E09000020,Kensington and Chelsea,158112,kensington and chelsea,13214.050799433313
+Kensington And Chelsea,kensington and chelsea,2016,21338,E09000020,Kensington and Chelsea,157127,kensington and chelsea,13580.097628033374
+Kensington And Chelsea,kensington and chelsea,2017,22714,E09000020,Kensington and Chelsea,157954,kensington and chelsea,14380.135988958811
+Kensington And Chelsea,kensington and chelsea,2018,23289,E09000020,Kensington and Chelsea,159301,kensington and chelsea,14619.49391403695
+Kensington And Chelsea,kensington and chelsea,2019,26540,E09000020,Kensington and Chelsea,160531,kensington and chelsea,16532.63232646654
+Kensington And Chelsea,kensington and chelsea,2020,19055,E09000020,Kensington and Chelsea,160794,kensington and chelsea,11850.566563428983
+Kensington And Chelsea,kensington and chelsea,2021,19496,E09000020,Kensington and Chelsea,161552,kensington and chelsea,12067.940972566108
+Kensington And Chelsea,kensington and chelsea,2022,22155,E09000020,Kensington and Chelsea,162446,kensington and chelsea,13638.378291863142
+Kensington And Chelsea,kensington and chelsea,2023,23156,E09000020,Kensington and Chelsea,163255,kensington and chelsea,14183.945361550948
+Kensington And Chelsea,kensington and chelsea,2024,23074,E09000020,Kensington and Chelsea,164020,kensington and chelsea,14067.796610169491
+Kensington And Chelsea,kensington and chelsea,2025,5184,E09000020,Kensington and Chelsea,164730,kensington and chelsea,3146.967765434347
+Kingston Upon Thames,kingston upon thames,2010,9183,E09000021,Kingston upon Thames,158648,kingston upon thames,5788.286016842318
+Kingston Upon Thames,kingston upon thames,2011,12117,E09000021,Kingston upon Thames,160469,kingston upon thames,7550.991157170543
+Kingston Upon Thames,kingston upon thames,2012,11725,E09000021,Kingston upon Thames,163939,kingston upon thames,7152.0504577922275
+Kingston Upon Thames,kingston upon thames,2013,10463,E09000021,Kingston upon Thames,166826,kingston upon thames,6271.804155227602
+Kingston Upon Thames,kingston upon thames,2014,10405,E09000021,Kingston upon Thames,169991,kingston upon thames,6120.912283591484
+Kingston Upon Thames,kingston upon thames,2015,10885,E09000021,Kingston upon Thames,173558,kingston upon thames,6271.678631927079
+Kingston Upon Thames,kingston upon thames,2016,11102,E09000021,Kingston upon Thames,176140,kingston upon thames,6302.940842511638
+Kingston Upon Thames,kingston upon thames,2017,12483,E09000021,Kingston upon Thames,178419,kingston upon thames,6996.4521715736555
+Kingston Upon Thames,kingston upon thames,2018,12891,E09000021,Kingston upon Thames,179581,kingston upon thames,7178.376331571826
+Kingston Upon Thames,kingston upon thames,2019,13575,E09000021,Kingston upon Thames,180598,kingston upon thames,7516.694537038063
+Kingston Upon Thames,kingston upon thames,2020,11507,E09000021,Kingston upon Thames,182728,kingston upon thames,6297.338120047283
+Kingston Upon Thames,kingston upon thames,2021,11709,E09000021,Kingston upon Thames,184660,kingston upon thames,6340.842629697822
+Kingston Upon Thames,kingston upon thames,2022,12195,E09000021,Kingston upon Thames,186434,kingston upon thames,6541.188838945685
+Kingston Upon Thames,kingston upon thames,2023,12306,E09000021,Kingston upon Thames,187973,kingston upon thames,6546.684896235097
+Kingston Upon Thames,kingston upon thames,2024,11206,E09000021,Kingston upon Thames,189276,kingston upon thames,5920.454785604092
+Kingston Upon Thames,kingston upon thames,2025,2862,E09000021,Kingston upon Thames,190330,kingston upon thames,1503.704092891294
+Lambeth,lambeth,2010,28474,E09000022,Lambeth,297650,lambeth,9566.269108012766
+Lambeth,lambeth,2011,39331,E09000022,Lambeth,304808,lambeth,12903.532715676754
+Lambeth,lambeth,2012,38253,E09000022,Lambeth,310527,lambeth,12318.73556888773
+Lambeth,lambeth,2013,36194,E09000022,Lambeth,314569,lambeth,11505.90172585347
+Lambeth,lambeth,2014,35376,E09000022,Lambeth,318543,lambeth,11105.565025757904
+Lambeth,lambeth,2015,36560,E09000022,Lambeth,324758,lambeth,11257.61336133367
+Lambeth,lambeth,2016,38076,E09000022,Lambeth,328237,lambeth,11600.154766220749
+Lambeth,lambeth,2017,37194,E09000022,Lambeth,331157,lambeth,11231.530663703319
+Lambeth,lambeth,2018,37574,E09000022,Lambeth,334724,lambeth,11225.367765681576
+Lambeth,lambeth,2019,38483,E09000022,Lambeth,338028,lambeth,11384.559858946597
+Lambeth,lambeth,2020,32576,E09000022,Lambeth,340324,lambeth,9572.054865363596
+Lambeth,lambeth,2021,33421,E09000022,Lambeth,342250,lambeth,9765.084002921842
+Lambeth,lambeth,2022,35036,E09000022,Lambeth,343982,lambeth,10185.416678779704
+Lambeth,lambeth,2023,35901,E09000022,Lambeth,345285,lambeth,10397.497719275381
+Lambeth,lambeth,2024,38398,E09000022,Lambeth,346100,lambeth,11094.481363767696
+Lambeth,lambeth,2025,8446,E09000022,Lambeth,346448,lambeth,2437.8838959959357
+Lewisham,lewisham,2010,23285,E09000023,Lewisham,272525,lewisham,8544.170259609211
+Lewisham,lewisham,2011,30248,E09000023,Lewisham,277525,lewisham,10899.198270426088
+Lewisham,lewisham,2012,27984,E09000023,Lewisham,282143,lewisham,9918.374724873558
+Lewisham,lewisham,2013,25698,E09000023,Lewisham,286767,lewisham,8961.282155896599
+Lewisham,lewisham,2014,23866,E09000023,Lewisham,292520,lewisham,8158.758375495692
+Lewisham,lewisham,2015,26108,E09000023,Lewisham,297912,lewisham,8763.661752463815
+Lewisham,lewisham,2016,26643,E09000023,Lewisham,302454,lewisham,8808.94284750739
+Lewisham,lewisham,2017,27110,E09000023,Lewisham,306380,lewisham,8848.488804752267
+Lewisham,lewisham,2018,28267,E09000023,Lewisham,310324,lewisham,9108.86686173161
+Lewisham,lewisham,2019,31406,E09000023,Lewisham,314027,lewisham,10001.050865053005
+Lewisham,lewisham,2020,29317,E09000023,Lewisham,317465,lewisham,9234.718787897878
+Lewisham,lewisham,2021,28496,E09000023,Lewisham,320574,lewisham,8889.055257132519
+Lewisham,lewisham,2022,29475,E09000023,Lewisham,323421,lewisham,9113.508399269065
+Lewisham,lewisham,2023,30161,E09000023,Lewisham,325830,lewisham,9256.667587392198
+Lewisham,lewisham,2024,30258,E09000023,Lewisham,327730,lewisham,9232.600006102584
+Lewisham,lewisham,2025,6790,E09000023,Lewisham,329136,lewisham,2062.9770064654126
+Merton,merton,2010,12131,E09000024,Merton,199136,merton,6091.81664791901
+Merton,merton,2011,16428,E09000024,Merton,201226,merton,8163.954956118991
+Merton,merton,2012,15413,E09000024,Merton,202908,merton,7596.0533837995545
+Merton,merton,2013,13535,E09000024,Merton,203906,merton,6637.862544505801
+Merton,merton,2014,13405,E09000024,Merton,204198,merton,6564.706804180257
+Merton,merton,2015,13944,E09000024,Merton,205248,merton,6793.732460243218
+Merton,merton,2016,14444,E09000024,Merton,205712,merton,7021.466905187835
+Merton,merton,2017,15140,E09000024,Merton,208225,merton,7270.980910073238
+Merton,merton,2018,15341,E09000024,Merton,209421,merton,7325.43536703578
+Merton,merton,2019,16015,E09000024,Merton,210452,merton,7609.811263375972
+Merton,merton,2020,14296,E09000024,Merton,212658,merton,6722.531012235608
+Merton,merton,2021,13788,E09000024,Merton,214740,merton,6420.787929589271
+Merton,merton,2022,14780,E09000024,Merton,216662,merton,6821.685390146864
+Merton,merton,2023,14256,E09000024,Merton,218298,merton,6530.522496770471
+Merton,merton,2024,13898,E09000024,Merton,220418,merton,6305.292671197451
+Merton,merton,2025,3279,E09000024,Merton,222714,merton,1472.2918182063092
+Newham,newham,2010,28213,E09000025,Newham,299171,newham,9430.392651694181
+Newham,newham,2011,34119,E09000025,Newham,311912,newham,10938.662186770627
+Newham,newham,2012,34932,E09000025,Newham,315536,newham,11070.686070686072
+Newham,newham,2013,31013,E09000025,Newham,319679,newham,9701.294110654751
+Newham,newham,2014,30915,E09000025,Newham,325774,newham,9489.707588696458
+Newham,newham,2015,32194,E09000025,Newham,334269,newham,9631.165318949708
+Newham,newham,2016,32879,E09000025,Newham,342430,newham,9601.670414391263
+Newham,newham,2017,36053,E09000025,Newham,347448,newham,10376.516773733048
+Newham,newham,2018,37721,E09000025,Newham,353245,newham,10678.424323061898
+Newham,newham,2019,37664,E09000025,Newham,359470,newham,10477.647647926115
+Newham,newham,2020,33872,E09000025,Newham,363552,newham,9316.961535076138
+Newham,newham,2021,33782,E09000025,Newham,366943,newham,9206.334498818618
+Newham,newham,2022,36049,E09000025,Newham,370004,newham,9742.867644674112
+Newham,newham,2023,37976,E09000025,Newham,372515,newham,10194.488812531039
+Newham,newham,2024,40620,E09000025,Newham,374424,newham,10848.663547208513
+Newham,newham,2025,9714,E09000025,Newham,387234,newham,2508.5607152264524
+Redbridge,redbridge,2010,19639,E09000026,Redbridge,275088,redbridge,7139.170011051009
+Redbridge,redbridge,2011,27613,E09000026,Redbridge,281521,redbridge,9808.504516536954
+Redbridge,redbridge,2012,25681,E09000026,Redbridge,284743,redbridge,9019.010124919665
+Redbridge,redbridge,2013,23068,E09000026,Redbridge,288398,redbridge,7998.668506716413
+Redbridge,redbridge,2014,22529,E09000026,Redbridge,293181,redbridge,7684.331522165488
+Redbridge,redbridge,2015,21578,E09000026,Redbridge,296919,redbridge,7267.301856735339
+Redbridge,redbridge,2016,22037,E09000026,Redbridge,299375,redbridge,7361.002087682672
+Redbridge,redbridge,2017,26149,E09000026,Redbridge,303887,redbridge,8604.843247654557
+Redbridge,redbridge,2018,26047,E09000026,Redbridge,305910,redbridge,8514.595796149193
+Redbridge,redbridge,2019,26022,E09000026,Redbridge,307690,redbridge,8457.213429100719
+Redbridge,redbridge,2020,24397,E09000026,Redbridge,312264,redbridge,7812.940332539134
+Redbridge,redbridge,2021,25380,E09000026,Redbridge,316288,redbridge,8024.332254148118
+Redbridge,redbridge,2022,25464,E09000026,Redbridge,320018,redbridge,7957.0524158016115
+Redbridge,redbridge,2023,24587,E09000026,Redbridge,323302,redbridge,7604.963779995174
+Redbridge,redbridge,2024,23953,E09000026,Redbridge,326070,redbridge,7345.968657036833
+Redbridge,redbridge,2025,5601,E09000026,Redbridge,328279,redbridge,1706.1706658056105
+Richmond Upon Thames,richmond upon thames,2010,9124,E09000027,Richmond upon Thames,186304,richmond upon thames,4897.372037100653
+Richmond Upon Thames,richmond upon thames,2011,12529,E09000027,Richmond upon Thames,187527,richmond upon thames,6681.1712446741
+Richmond Upon Thames,richmond upon thames,2012,12630,E09000027,Richmond upon Thames,189145,richmond upon thames,6677.416796637501
+Richmond Upon Thames,richmond upon thames,2013,11511,E09000027,Richmond upon Thames,191365,richmond upon thames,6015.206542471194
+Richmond Upon Thames,richmond upon thames,2014,11444,E09000027,Richmond upon Thames,193585,richmond upon thames,5911.615052819176
+Richmond Upon Thames,richmond upon thames,2015,11405,E09000027,Richmond upon Thames,194730,richmond upon thames,5856.827402043856
+Richmond Upon Thames,richmond upon thames,2016,12103,E09000027,Richmond upon Thames,195846,richmond upon thames,6179.8556008292235
+Richmond Upon Thames,richmond upon thames,2017,14572,E09000027,Richmond upon Thames,197988,richmond upon thames,7360.042022748853
+Richmond Upon Thames,richmond upon thames,2018,14043,E09000027,Richmond upon Thames,199419,richmond upon thames,7041.956884750199
+Richmond Upon Thames,richmond upon thames,2019,14022,E09000027,Richmond upon Thames,200703,richmond upon thames,6986.44265407094
+Richmond Upon Thames,richmond upon thames,2020,13088,E09000027,Richmond upon Thames,201713,richmond upon thames,6488.426625948749
+Richmond Upon Thames,richmond upon thames,2021,11770,E09000027,Richmond upon Thames,203312,richmond upon thames,5789.131974502243
+Richmond Upon Thames,richmond upon thames,2022,12072,E09000027,Richmond upon Thames,205051,richmond upon thames,5887.315838498715
+Richmond Upon Thames,richmond upon thames,2023,12274,E09000027,Richmond upon Thames,206708,richmond upon thames,5937.844689126691
+Richmond Upon Thames,richmond upon thames,2024,12179,E09000027,Richmond upon Thames,208321,richmond upon thames,5846.266098953059
+Richmond Upon Thames,richmond upon thames,2025,2705,E09000027,Richmond upon Thames,209625,richmond upon thames,1290.3995229576624
+Southwark,southwark,2010,29535,E09000028,Southwark,283777,southwark,10407.820225035855
+Southwark,southwark,2011,37435,E09000028,Southwark,289361,southwark,12937.126979793406
+Southwark,southwark,2012,35282,E09000028,Southwark,294174,southwark,11993.582029683113
+Southwark,southwark,2013,35061,E09000028,Southwark,299109,southwark,11721.813786947232
+Southwark,southwark,2014,32264,E09000028,Southwark,303182,southwark,10641.792718565086
+Southwark,southwark,2015,33878,E09000028,Southwark,309545,southwark,10944.450726065677
+Southwark,southwark,2016,35323,E09000028,Southwark,313867,southwark,11254.129934016637
+Southwark,southwark,2017,37037,E09000028,Southwark,317735,southwark,11656.5691535399
+Southwark,southwark,2018,38363,E09000028,Southwark,322302,southwark,11902.811648702149
+Southwark,southwark,2019,42554,E09000028,Southwark,327271,southwark,13002.679736365275
+Southwark,southwark,2020,33927,E09000028,Southwark,330290,southwark,10271.882285264464
+Southwark,southwark,2021,33430,E09000028,Southwark,332679,southwark,10048.725648447904
+Southwark,southwark,2022,36286,E09000028,Southwark,334826,southwark,10837.270701797352
+Southwark,southwark,2023,37748,E09000028,Southwark,336554,southwark,11216.030711267731
+Southwark,southwark,2024,39786,E09000028,Southwark,339444,southwark,11720.931876833882
+Southwark,southwark,2025,9421,E09000028,Southwark,343402,southwark,2743.431896145043
+Sutton,sutton,2010,9833,E09000029,Sutton,189321,sutton,5193.824245593463
+Sutton,sutton,2011,12317,E09000029,Sutton,191515,sutton,6431.350024802235
+Sutton,sutton,2012,12182,E09000029,Sutton,194022,sutton,6278.669429239983
+Sutton,sutton,2013,11011,E09000029,Sutton,196306,sutton,5609.100078448952
+Sutton,sutton,2014,11436,E09000029,Sutton,198526,sutton,5760.454550033749
+Sutton,sutton,2015,11429,E09000029,Sutton,200537,sutton,5699.197654298209
+Sutton,sutton,2016,11689,E09000029,Sutton,202612,sutton,5769.154837818095
+Sutton,sutton,2017,12841,E09000029,Sutton,204933,sutton,6265.950334987533
+Sutton,sutton,2018,13013,E09000029,Sutton,207378,sutton,6275.0147074424485
+Sutton,sutton,2019,14954,E09000029,Sutton,209666,sutton,7132.296128127594
+Sutton,sutton,2020,13675,E09000029,Sutton,211297,sutton,6471.932871739778
+Sutton,sutton,2021,13497,E09000029,Sutton,213340,sutton,6326.521046217305
+Sutton,sutton,2022,14166,E09000029,Sutton,215228,sutton,6581.857379151411
+Sutton,sutton,2023,13277,E09000029,Sutton,216865,sutton,6122.241947755516
+Sutton,sutton,2024,13072,E09000029,Sutton,218218,sutton,5990.339935294064
+Sutton,sutton,2025,2997,E09000029,Sutton,219275,sutton,1366.7768783491051
+Tower Hamlets,tower hamlets,2010,22456,E09000030,Tower Hamlets,248520,tower hamlets,9035.892483502334
+Tower Hamlets,tower hamlets,2011,30510,E09000030,Tower Hamlets,256685,tower hamlets,11886.163975300466
+Tower Hamlets,tower hamlets,2012,30753,E09000030,Tower Hamlets,263676,tower hamlets,11663.177536066993
+Tower Hamlets,tower hamlets,2013,29467,E09000030,Tower Hamlets,273563,tower hamlets,10771.559019311822
+Tower Hamlets,tower hamlets,2014,28234,E09000030,Tower Hamlets,284688,tower hamlets,9917.523745293092
+Tower Hamlets,tower hamlets,2015,30517,E09000030,Tower Hamlets,295909,tower hamlets,10312.967838085357
+Tower Hamlets,tower hamlets,2016,32795,E09000030,Tower Hamlets,305527,tower hamlets,10733.912223796915
+Tower Hamlets,tower hamlets,2017,33954,E09000030,Tower Hamlets,311044,tower hamlets,10916.140481732487
+Tower Hamlets,tower hamlets,2018,36007,E09000030,Tower Hamlets,317203,tower hamlets,11351.405882037685
+Tower Hamlets,tower hamlets,2019,37301,E09000030,Tower Hamlets,323696,tower hamlets,11523.466462359745
+Tower Hamlets,tower hamlets,2020,32965,E09000030,Tower Hamlets,328043,tower hamlets,10048.987480299838
+Tower Hamlets,tower hamlets,2021,33959,E09000030,Tower Hamlets,331620,tower hamlets,10240.335323563115
+Tower Hamlets,tower hamlets,2022,34351,E09000030,Tower Hamlets,334834,tower hamlets,10259.11347115287
+Tower Hamlets,tower hamlets,2023,36672,E09000030,Tower Hamlets,341358,tower hamlets,10742.973652294659
+Tower Hamlets,tower hamlets,2024,36686,E09000030,Tower Hamlets,348363,tower hamlets,10530.969132772425
+Tower Hamlets,tower hamlets,2025,8093,E09000030,Tower Hamlets,353945,tower hamlets,2286.5134413538826
+Waltham Forest,waltham forest,2010,22999,E09000031,Waltham Forest,254009,waltham forest,9054.403584124972
+Waltham Forest,waltham forest,2011,28394,E09000031,Waltham Forest,260397,waltham forest,10904.119479103063
+Waltham Forest,waltham forest,2012,26697,E09000031,Waltham Forest,263221,waltham forest,10142.427845802576
+Waltham Forest,waltham forest,2013,24818,E09000031,Waltham Forest,266452,waltham forest,9314.24796961554
+Waltham Forest,waltham forest,2014,22973,E09000031,Waltham Forest,268675,waltham forest,8550.479203498651
+Waltham Forest,waltham forest,2015,23631,E09000031,Waltham Forest,271825,waltham forest,8693.46086636623
+Waltham Forest,waltham forest,2016,23116,E09000031,Waltham Forest,276498,waltham forest,8360.277470361449
+Waltham Forest,waltham forest,2017,24921,E09000031,Waltham Forest,280050,waltham forest,8898.768077129083
+Waltham Forest,waltham forest,2018,25628,E09000031,Waltham Forest,283524,waltham forest,9039.093692244749
+Waltham Forest,waltham forest,2019,25937,E09000031,Waltham Forest,286776,waltham forest,9044.341227996765
+Waltham Forest,waltham forest,2020,24877,E09000031,Waltham Forest,290024,waltham forest,8577.565994538383
+Waltham Forest,waltham forest,2021,23385,E09000031,Waltham Forest,292788,waltham forest,7987.007664248534
+Waltham Forest,waltham forest,2022,23482,E09000031,Waltham Forest,295311,waltham forest,7951.617108742987
+Waltham Forest,waltham forest,2023,23252,E09000031,Waltham Forest,297439,waltham forest,7817.401215039051
+Waltham Forest,waltham forest,2024,25128,E09000031,Waltham Forest,299105,waltham forest,8401.063171795857
+Waltham Forest,waltham forest,2025,5701,E09000031,Waltham Forest,300284,waltham forest,1898.5360525369317
+Wandsworth,wandsworth,2010,21043,E09000032,Wandsworth,302620,wandsworth,6953.605181415637
+Wandsworth,wandsworth,2011,25745,E09000032,Wandsworth,308300,wandsworth,8350.632500810898
+Wandsworth,wandsworth,2012,28965,E09000032,Wandsworth,308902,wandsworth,9376.76026701025
+Wandsworth,wandsworth,2013,25753,E09000032,Wandsworth,311106,wandsworth,8277.885993841328
+Wandsworth,wandsworth,2014,24315,E09000032,Wandsworth,312735,wandsworth,7774.953235167155
+Wandsworth,wandsworth,2015,25320,E09000032,Wandsworth,315134,wandsworth,8034.677311873679
+Wandsworth,wandsworth,2016,26668,E09000032,Wandsworth,316686,wandsworth,8420.959562468817
+Wandsworth,wandsworth,2017,27244,E09000032,Wandsworth,319731,wandsworth,8520.912892400174
+Wandsworth,wandsworth,2018,28173,E09000032,Wandsworth,324400,wandsworth,8684.648581997533
+Wandsworth,wandsworth,2019,28818,E09000032,Wandsworth,328828,wandsworth,8763.852226696023
+Wandsworth,wandsworth,2020,26580,E09000032,Wandsworth,332731,wandsworth,7988.43510222973
+Wandsworth,wandsworth,2021,27199,E09000032,Wandsworth,337783,wandsworth,8052.211034895185
+Wandsworth,wandsworth,2022,25838,E09000032,Wandsworth,343147,wandsworth,7529.717584592026
+Wandsworth,wandsworth,2023,27093,E09000032,Wandsworth,348272,wandsworth,7779.264482932879
+Wandsworth,wandsworth,2024,25980,E09000032,Wandsworth,353279,wandsworth,7353.961033630643
+Wandsworth,wandsworth,2025,6014,E09000032,Wandsworth,357242,wandsworth,1683.452673537826
+Westminster,westminster,2010,48487,E09000033,Westminster,217187,westminster,22325.001035973608
+Westminster,westminster,2011,67309,E09000033,Westminster,219582,westminster,30653.241158200584
+Westminster,westminster,2012,65564,E09000033,Westminster,223858,westminster,29288.20948994452
+Westminster,westminster,2013,58241,E09000033,Westminster,226841,westminster,25674.81187263325
+Westminster,westminster,2014,51500,E09000033,Westminster,233292,westminster,22075.33906006207
+Westminster,westminster,2015,51283,E09000033,Westminster,242299,westminster,21165.171956962266
+Westminster,westminster,2016,52401,E09000033,Westminster,247614,westminster,21162.373694540696
+Westminster,westminster,2017,59434,E09000033,Westminster,250049,westminster,23768.94128750765
+Westminster,westminster,2018,66384,E09000033,Westminster,254375,westminster,26096.90417690418
+Westminster,westminster,2019,84858,E09000033,Westminster,258511,westminster,32825.6824661233
+Westminster,westminster,2020,49713,E09000033,Westminster,259981,westminster,19121.781976375198
+Westminster,westminster,2021,51040,E09000033,Westminster,262317,westminster,19457.37409317734
+Westminster,westminster,2022,77874,E09000033,Westminster,264875,westminster,29400.28315243039
+Westminster,westminster,2023,90454,E09000033,Westminster,267274,westminster,33843.17217537059
+Westminster,westminster,2024,91416,E09000033,Westminster,269593,westminster,33908.892293197525
+Westminster,westminster,2025,21175,E09000033,Westminster,270541,westminster,7826.909784468898

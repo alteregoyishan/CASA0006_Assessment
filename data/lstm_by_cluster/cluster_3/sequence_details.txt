@@ -1,0 +1,14 @@
+Train period: 2010-04-01 00:00:00 to 2023-03-01 00:00:00, 156 months
+Test period: 2023-04-01 00:00:00 to 2025-03-01 00:00:00, 24 months
+X_train shape: (144, 12), y_train shape: (144,)
+X_test shape: (24, 12), y_test shape: (24,)
+
+First 3 test sequences (if available):
+Sequence 0, Target date: 2023-04-01 00:00:00
+Sequence 1, Target date: 2023-05-01 00:00:00
+Sequence 2, Target date: 2023-06-01 00:00:00
+
+Last 3 test sequences (if available):
+Sequence 21, Target date: 2025-01-01 00:00:00
+Sequence 22, Target date: 2025-02-01 00:00:00
+Sequence 23, Target date: 2025-03-01 00:00:00
